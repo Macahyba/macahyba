@@ -1,16 +1,17 @@
-### Hi there 👋
+#### [pt]
+### Olá, Thiago aqui 👋
 
-<!--
-**Macahyba/macahyba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto de construir coisas 💻
 
-Here are some ideas to get you started:
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMacahyba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagomacahyba/)](https://www.linkedin.com/in/thiagomacahyba/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-t.macahyba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t.macahyba@gmail.com)](mailto:t.macahyba@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### [en]
+### Hi there, Thiago here 👋
+
+I like to build stuff 💻
+
+<br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMacahyba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagomacahyba?locale=en_US/)](https://www.linkedin.com/in/thiagomacahyba?locale=en_US/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-t.macahyba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:t.macahyba@gmail.com)](mailto:t.macahyba@gmail.com)
